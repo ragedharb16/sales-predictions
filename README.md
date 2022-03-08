@@ -8,15 +8,40 @@ Here is the Data Dictionary for this dataset:
 ![image](https://user-images.githubusercontent.com/98135268/157154600-7027e4c5-20aa-4837-947f-0ce4630f61e1.png)
 
 
-ANALISIS
+# ANALISIS
  1. Visibility in the outlets can increase the sales ?
  
  ![image](https://user-images.githubusercontent.com/98135268/157155231-f2b84e10-b334-4911-89f1-7ea4d29826ba.png)
  
  
+ 
+ visibility is conected to sales, they are many ways to make i product more atractive, there are tecniques like 
+ better signs tecnology and costumer service that can apply to resolve this problem and increase the sales in every product
+ 
+ 
  2.  is the Seafood discriminated?
 
 ![image](https://user-images.githubusercontent.com/98135268/157155434-49b8a2e3-f4b0-481b-88c1-3abee5286182.png)
+
+Seafood is one of the best proteins in the market, with more nutricions less fat, that has unlimited benefits to the health of the humans
+
+are we doing enough information to sale the benefits? 
+
+how about the many ways to cooked ?
+
+i think if we point the right way we can triplicate the sales of the seafood after the consideration that we made
+
+
+# Machine Learning
+
+
+
+
+
+
+
+
+
 
 3. linear regression line vs random forest?
 
