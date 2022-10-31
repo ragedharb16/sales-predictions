@@ -18,6 +18,7 @@ Here is the Data Dictionary for this dataset:
  visibility is conected to sales, they are many ways to make i product more atractive, there are tecniques like 
  better signs tecnology and costumer service that can apply to resolve this problem and increase the sales in every product
  
+ !.[image]("C:\Users\raged\Downloads\download (7).png")
  
  2.  is the Seafood discriminated?
 
