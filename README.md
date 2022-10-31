@@ -34,43 +34,21 @@ i think if we point the right way we can triplicate the sales of the seafood aft
 
 # Machine Learning
 
+| MODEL | MAE | MSE | RMSE | R2 | train or test |
+|-------| --- | --- | ---- | -- | ------------- |
+|LINEAR REGRESSION | 848.81 | 1,303,646.20 | 1,141.77  | 0.56| TRAIN |
+|LINEAR REGRESSION | 804.65 | 1,193,827.69 | 1,092.62  | 0.57| TEST |
+
+
+## VS
+
+| MODEL | MAE | MSE | RMSE | R2 | train or test |
+|-------| --- | --- | ---- | -- | ------------- |
+|RANDOM FOREST | 755.40  | 1,152,595.69|  1,073.59  |  0.61 | TRAIN |
+|RANDOM FOREST | 728.41 | 1,096,375.02 | 1,047.08   |  0.60 | TEST |
 
 
 
-
-
-
-
-
-
-3. linear regression line vs random forest?
-
-Train Evaluation(linear regression)
-MAE: 848.81 
- MSE: 1,303,646.20 
- RMSE: 1,141.77 
- R2: 0.56 
-
- Test Evaluation(Linear regression)
-MAE: 804.65 
- MSE: 1,193,827.69 
- RMSE: 1,092.62 
- R2: 0.57 
- 
-
-
-
-Random Forest Train Evaluation
-MAE: 755.40 
- MSE: 1,152,595.69 
- RMSE: 1,073.59 
- R2: 0.61 
-
-Random Forest Test Evaluation
-MAE: 728.41 
- MSE: 1,096,375.02 
- RMSE: 1,047.08 
- R2: 0.60 
 
 
 4. baggintree in acction
