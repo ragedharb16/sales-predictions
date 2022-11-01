@@ -4,6 +4,8 @@ Raged project
 coding dojo 03/05/2022
 This Project is about identefy the sales in this outlets and to predicto and improve better results
 
+![image](https://res.cloudinary.com/mommy-nearest/image/upload/c_crop,h_800,w_1800,x_0,y_675/c_scale,f_auto,fl_lossy,q_75,w_848/pyoluqa7wayuecdihqyx)
+
 Here is the Data Dictionary for this dataset:
 ![image](https://user-images.githubusercontent.com/98135268/157154600-7027e4c5-20aa-4837-947f-0ce4630f61e1.png)
 
@@ -15,16 +17,35 @@ Here is the Data Dictionary for this dataset:
  
  
  
+ 
  visibility is conected to sales, they are many ways to make i product more atractive, there are tecniques like 
  better signs tecnology and costumer service that can apply to resolve this problem and increase the sales in every product
+
  
- !.[image]("C:\Users\raged\Downloads\download (7).png")
+2. HEALTHY SALES MORE
+
+
+ ![download (8)](https://user-images.githubusercontent.com/98135268/199262658-f17ba8de-c703-43cb-b94e-0a38a7d3876c.png)
  
- 2.  is the Seafood discriminated?
+ we cant notice thaty the healthy sales are more than regular food
+ 
+ 
+ 
+ ## What about health proteins??
+ 
+
+3.  is the Seafood discriminated?
 
 ![image](https://user-images.githubusercontent.com/98135268/157155434-49b8a2e3-f4b0-481b-88c1-3abee5286182.png)
 
 Seafood is one of the best proteins in the market, with more nutricions less fat, that has unlimited benefits to the health of the humans
+
+ 
+ we cant notice thaty the healthy sales are more than regular food
+ 
+ we can take advantage of that ?
+ 
+ 
 
 are we doing enough information to sale the benefits? 
 
@@ -32,6 +53,8 @@ how about the many ways to cooked ?
 
 i think if we point the right way we can triplicate the sales of the seafood after the consideration that we made
 
+
+4 projecting with machine learning
 
 # Machine Learning
 
@@ -55,11 +78,12 @@ i think if we point the right way we can triplicate the sales of the seafood aft
 4. baggintree in acction
 
 
-the score is in trainig: 0.9190046083935813
+| MODEL | SCORE | TRAIN OR TEST |
+| ----- | ----- | ------------- |
+| BAGGINTREE| 0.91 | TRAIN |
+| BAGGINTREE | 0.53 | TEST |
 
 
-
-the score in in testing: 0.5360982091972237
 
  
  
